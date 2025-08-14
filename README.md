@@ -119,9 +119,4 @@ Before importing the workflow, ensure you have:
 > *"How many remote days are allowed per month?"*  
 > The chatbot searches the Pinecone index, retrieves the relevant policy section, and answers instantly.
 
----
-
-## 📄 License
-
-This template is provided as-is, for internal company knowledge management use.
 
