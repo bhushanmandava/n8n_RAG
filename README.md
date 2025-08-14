@@ -1,4 +1,4 @@
-# Cognito AI – Company Document Q&A Chatbot
+# Cognito AI – Company Document Q&A Chatbot{RAG AGENT}
 
 This n8n workflow creates an **AI-powered HR / Company Q&A assistant** that answers employee questions based on documents stored in **Google Drive**.
 
